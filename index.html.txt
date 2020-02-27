@@ -11,9 +11,7 @@
         <li>Vagrant</li>
         <li>Docker</li>
         <li>Ansibler</li>
-<<<<<<< HEAD
         <li>Aprendizados de Integração Contínua no desenvolvimento de softwares</li>
->>>>>>> titulo
     </ul>
 </body>
 </html>
