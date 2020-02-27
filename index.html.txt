@@ -1,3 +1,4 @@
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -9,7 +10,7 @@
         <li>Vagrant</li>
         <li>Docker</li>
         <li>Ansibler</li>
-        <li>Integração Contínua</li>
+        <li>Integração Contínua no desenvolvimento de softwares</li>
     </ul>
 </body>
 </html>
