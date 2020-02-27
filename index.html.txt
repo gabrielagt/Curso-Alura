@@ -10,7 +10,7 @@
     <ul>
         <li>Vagrant: Gerenciando máquinas virtuais<li>
         <li>Docker:Criando containers sem dor de cabeça</li>
-        <li>Ansibler</li>
+        <li>Ansibler: curso novo</li>
         <li>Aprendizados de Integração Contínua no desenvolvimento de softwares</li>
     </ul>
 </body>
