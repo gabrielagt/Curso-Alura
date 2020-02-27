@@ -8,7 +8,7 @@
 </head>
 <body>
     <ul>
-        <li>Vagrant</li>
+        <li>Vagrant atualizado<li>
         <li>Docker</li>
         <li>Ansibler</li>
         <li>Aprendizados de Integração Contínua no desenvolvimento de softwares</li>
