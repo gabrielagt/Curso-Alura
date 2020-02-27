@@ -1,16 +1,17 @@
 
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>Cursos da Alura</title>
+    <title>Cursos interessantes da Alura</title>
 </head>
 <body>
     <ul>
         <li>Vagrant</li>
         <li>Docker</li>
         <li>Ansibler</li>
-        <li>Integração Contínua no desenvolvimento de softwares</li>
+        <li>Integração Contínua hard no desenvolvimento de softwares</li>
     </ul>
 </body>
 </html>
