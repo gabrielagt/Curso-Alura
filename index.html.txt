@@ -12,7 +12,7 @@
         <li>Docker: fim teste stash</li>
         <li>Ansibler</li>
         <li>Integração Contínua</li>
- 	<li>Kubernets</li>
+ 	<li>Kubernets: intro a orquestração de containers</li>
     </ul>
 </body>
 </html>
