@@ -13,7 +13,6 @@
         <li>Ansibler</li>
         <li>Integração Contínua</li>
  	<li>Kubernets</li>
-Alteração 2
     </ul>
 </body>
 </html>
