@@ -8,9 +8,9 @@
 </head>
 <body>
     <ul>
-        <li>Vagrant: teste de stash<li>
-        <li>Docker: fim teste stash</li>
-        <li>Ansibler</li>
+        <li>Vagrant<li>
+        <li>Docker</li>
+        <li>Ansibler: pediram p add</li>
         <li>Integração Contínua</li>
  	<li>Kubernets: intro a orquestração de containers</li>
     </ul>
