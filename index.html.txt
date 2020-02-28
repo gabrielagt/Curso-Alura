@@ -9,7 +9,7 @@
 <body>
     <ul>
         <li>Vagrant: teste de stash<li>
-        <li>Docker</li>
+        <li>Docker: fim teste stash</li>
         <li>Ansibler</li>
         <li>Integração Contínua</li>
  	<li>Kubernets</li>
